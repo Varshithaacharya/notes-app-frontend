@@ -4,7 +4,7 @@ import { BrowserRouter as Router, Route, Routes, useParams, Link } from 'react-r
 import './App.css';
 
 // JAVA BACKEND URL
-const API_BASE_URL = "http://localhost:8080/notes"; 
+const API_BASE_URL = "https://notes-app-backend-varshu.onrender.com"; 
 
 // 1. Component: Public Note View
 const PublicNote = () => {
