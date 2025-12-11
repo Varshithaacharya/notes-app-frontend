@@ -11,6 +11,15 @@ Currently, two official plugins are available:
 
 The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
+Screenshots of the pages:
+Our end
+<img width="1891" height="995" alt="image" src="https://github.com/user-attachments/assets/e7030fb3-abc8-4fcc-8f58-52495c4a39ef" />
+
+user end
+<img width="1869" height="757" alt="image" src="https://github.com/user-attachments/assets/9eaf4d0f-798e-4b06-af2d-dc43741cc31c" />
+
+
+
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
